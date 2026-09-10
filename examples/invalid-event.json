@@ -1,0 +1,10 @@
+{
+  "specversion": "0.3",
+  "type": "",
+  "source": "not a uri",
+  "id": "",
+  "time": "yesterday",
+  "datacontenttype": "not-a-media-type",
+  "data": {"private": "payload is never echoed"},
+  "data_base64": "not base64"
+}

@@ -1,0 +1,2 @@
+{"specversion":"1.0","type":"com.example.heartbeat","source":"/worker/1","id":"hb-1","data":{"ok":true}}
+{"specversion":"1.0","type":"com.example.heartbeat","source":"/worker/1","id":"hb-2","data":{"ok":true}}

@@ -1,0 +1,17 @@
+[
+  {
+    "specversion": "1.0",
+    "type": "com.example.order.created",
+    "source": "https://example.com/orders",
+    "id": "order-42",
+    "data": {"orderId": 42}
+  },
+  {
+    "specversion": "1.0",
+    "type": "com.example.order.deleted",
+    "source": "/orders",
+    "id": "order-41",
+    "datacontenttype": "application/octet-stream",
+    "data_base64": "AQI="
+  }
+]

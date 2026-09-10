@@ -1,0 +1,14 @@
+{
+  "specversion": "1.0",
+  "type": "com.example.order.created",
+  "source": "https://example.com/orders",
+  "id": "order-42",
+  "time": "2026-09-11T08:30:00Z",
+  "subject": "orders/42",
+  "datacontenttype": "application/json",
+  "comexamplepriority": 5,
+  "data": {
+    "orderId": 42,
+    "status": "created"
+  }
+}
