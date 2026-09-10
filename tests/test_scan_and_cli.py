@@ -22,7 +22,7 @@ def test_scan_directory_and_renderers() -> None:
     assert sarif["version"] == "2.1.0"
     assert sarif["runs"][0]["results"]
     text = render_text(report)
-    assert "private" not in text
+    assert "payload is never echoed" not in text
     assert "failed:" in text
 
 
