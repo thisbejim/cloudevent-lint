@@ -20,6 +20,7 @@ stored contracts before they are deployed and emits stable rule IDs for CI.
 ## Install
 
 Requires Python 3.10 or newer.
+Runs on Linux, macOS, and Windows; the runtime has no platform-specific dependencies.
 
 ```bash
 python -m pip install cloudevent-lint
